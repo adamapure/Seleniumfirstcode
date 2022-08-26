@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj",
         "projectName": "Seleniumfirstcode",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Seleniumfirstcode\\Seleniumfirstcode\\Seleniumfirstcode.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Seleniumfirstcode\\Seleniumfirstcode\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Seleniumfirstcode\\Seleniumfirstcode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
